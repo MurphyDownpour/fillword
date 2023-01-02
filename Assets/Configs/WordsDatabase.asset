@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 475262092740c8147ae3a5c2b32de38d, type: 3}
+  m_Name: WordsDatabase
+  m_EditorClassIdentifier: 
+  _stageDatas:
+  - StageId: 0
+    WordDatas:
+    - RawWord: DeFaUlT
+      CharCase: 0
+    - RawWord: upper
+      CharCase: 1
+    - RawWord: lower
+      CharCase: 2
+    - RawWord: upper2
+      CharCase: 1
